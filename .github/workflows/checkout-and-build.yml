@@ -1,4 +1,4 @@
-name: Build and Push ARM64 Docker Image of MiroTalk P2P
+name: Build ARM64 Image
 
 on:
   schedule:
